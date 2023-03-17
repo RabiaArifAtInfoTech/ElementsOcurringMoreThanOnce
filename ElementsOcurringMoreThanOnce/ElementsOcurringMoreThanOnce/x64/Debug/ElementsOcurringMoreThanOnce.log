@@ -1,0 +1,3 @@
+﻿  ElementsOcurringMoreThanOnce.cpp
+E:\OneDrive - Infotech (Private) Limited\GitFolders\Tasks(17March)\ElementsOcurringMoreThanOnce\ElementsOcurringMoreThanOnce\ElementsOcurringMoreThanOnce\ElementsOcurringMoreThanOnce.cpp(64,108): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ElementsOcurringMoreThanOnce.vcxproj -> E:\OneDrive - Infotech (Private) Limited\GitFolders\Tasks(17March)\ElementsOcurringMoreThanOnce\ElementsOcurringMoreThanOnce\x64\Debug\ElementsOcurringMoreThanOnce.exe
